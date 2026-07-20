@@ -1,6 +1,6 @@
 # Black0ut CS2
 
-External overlay for Counter-Strike 2, built with ImGui + DirectX 11.
+External cheat for Counter-Strike 2, built with ImGui + DirectX 11.
 
 ## Features
 
