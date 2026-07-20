@@ -19,7 +19,7 @@ External overlay for Counter-Strike 2, built with ImGui + DirectX 11.
 ## Usage
 
 1. Launch `cs2.exe`
-2. Run `build\Black0ut.exe`
+2. Run `Black0ut.exe`
 3. `INSERT` – toggle GUI
 4. Configs are stored in the `configs/` folder
 
